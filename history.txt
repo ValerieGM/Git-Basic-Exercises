@@ -1,0 +1,843 @@
+    1  dnf install tar bzip2 kernel-devel-$(rumbi) kernel-headers perl gcc make elfutils-libelf-devel
+    2  dnf install tar bzip2 kernel-devel-$(uname - r) kernel-headers perl gcc make elfutils-libelf-devel
+    3  su -
+    4  su
+    5  sudo 
+    6  sudo -s
+    7  sudo
+    8  sudo -s
+    9  lsmod | grep
+   10  lsmod | grep vbox
+   11  exit
+   12  git -version
+   13  git --version
+   14  ls
+   15  sudo -s
+   16  cd Documents/
+   17  ls
+   18  npm install -g create-react-app
+   19  sudo npm install -g create-react-app
+   20  ls
+   21  ls -la
+   22  cd React
+   23  mkdir React
+   24  ls
+   25  cd React/
+   26  mkdir calculator
+   27  create-react-app calculator/
+   28  ls
+   29  cd calculator/
+   30  ls
+   31  ls -l
+   32  ls -a
+   33  ls
+   34  vi README.md 
+   35  sudo yum upgrade -y
+   36  sudo yum update -y
+   37  exit
+   38  npm start
+   39  rm -rf node_modules/
+   40  npm start
+   41  cd ..
+   42  rm -rf calculator/
+   43  mkdir calculator
+   44  create-react-app
+   45  create-react-app calculator/
+   46  npm start
+   47  cd calculator/
+   48  npm start
+   49  exit
+   50  ls -l
+   51  cd ..\
+   52  cd ..
+   53  ls
+   54  cd c
+   55  LS
+   56  ls
+   57  cd calculator/
+   58  ls -l
+   59  ls -la
+   60  exit
+   61  ls
+   62  npm start
+   63  cd ..
+   64  rm -rf calculator/
+   65  ls
+   66  cd ..
+   67  ls -la
+   68  sudo reboot
+   69  npm -version
+   70  ls -l
+   71  cd /
+   72  ls
+   73  cd r
+   74  cd root/
+   75  sudo -s
+   76  ls
+   77  cd home/
+   78  ls
+   79  cd rumbi/
+   80  ls
+   81  cd Documents/
+   82  ls
+   83  cd React/
+   84  ls
+   85  cd ..
+   86  rm -rf React/
+   87  mkdir R
+   88  rm -rf R
+   89  mkdir React
+   90  cd React/
+   91  mkdir calculator
+   92  create-react-app calculator/
+   93  cd calculator/
+   94  npm start
+   95  cd ..
+   96  ls
+   97  mkdir D3
+   98  mkdir Vue
+   99  ls
+  100  cd src/
+  101  ls
+  102  mkdir components style
+  103  ls
+  104  rm App.test.js 
+  105  ls
+  106  rm logo.svg reportWebVitals.js setupTests.js 
+  107  ls
+  108  mv *.css
+  109  l;s
+  110  l
+  111  ls
+  112  cd style/
+  113  ls
+  114  c d ..
+  115  mv *.css
+  116  ls
+  117  cd ..
+  118  ls
+  119  mv *.css
+  120  ls
+  121  mv index.css  style/
+  122  ls
+  123  mv App.js components/
+  124  ls
+  125  cd ..
+  126  ls
+  127  npm start 
+  128  exit
+  129  ls
+  130  cd src/
+  131  ls
+  132  touch Button.js Screen.js
+  133  ls
+  134  mv Button.js components/
+  135  mv Screen.js components/
+  136  ls
+  137  cd components/
+  138  ls
+  139  exit
+  140  cd ..
+  141  ls
+  142  mkdir "25+5 Clock"
+  143  ls
+  144  create-react-app 25+5\ Clock/
+  145  mv 25+5\ Clock/ 25+5
+  146  ls
+  147  create-react-app 25+5
+  148  mv 25+5 pomodoro
+  149  create-react-app pomodoro/
+  150  cd pomodoro/
+  151  ls
+  152  cd src/
+  153  ls
+  154  vi App.
+  155  vi App.css 
+  156  vi index.css 
+  157  cd ..
+  158  exit
+  159  cp ../pomodoro/src/index.css src/style/index.css 
+  160  ls
+  161  cd src/
+  162  ls
+  163  cd components/
+  164  ls
+  165  rm Screen.js 
+  166  mv Button.js KeyPad.js
+  167  ls
+  168  rm Button.js 
+  169  mv Button.js KeyPad.js
+  170  ls
+  171  mkdir Screen.js
+  172  rm -rf Screen.js/
+  173  ls
+  174  touch Screen.js
+  175  ls
+  176  rm -rf Screen.js 
+  177   ls
+  178  exit
+  179  cd ..
+  180  ls
+  181  npm start 
+  182  exit
+  183  cd Documents/
+  184  ls
+  185  cd React/
+  186  l
+  187  ls
+  188  mv calculator/ calculator1
+  189  git clone https://github.com/ValerieGM/React-Calculator.git
+  190  ls
+  191  cd calculator1/
+  192  ls
+  193  mv ../React-Calculator/
+  194  mv * ../React-Calculator/
+  195  ls
+  196  cd ..
+  197  ls
+  198  rm -rf calculator1/
+  199  ls
+  200  cd React-Calculator/
+  201  ls
+  202  git status
+  203  rm -rf README.md 
+  204  it status
+  205  git status
+  206  git add .
+  207  git status
+  208  ls -la
+  209  ls
+  210  cd ..
+  211  ls
+  212  cd pomodoro/
+  213  ls
+  214  ls -la
+  215  vi .gitignore 
+  216  cp .gitignore ../React-Calculator/
+  217  cd ..
+  218  cd React-Calculator/
+  219  ls
+  220  ls -la
+  221  git status
+  222  git remove --cache node_modules/
+  223  git rem --cache node_modules/
+  224  git rm --cache node_modules/
+  225  git rm -r --cache node_modules/
+  226  ls
+  227  ls -la
+  228  ls -la ../pomodoro/
+  229  git status
+  230  git add .gitignore 
+  231  git status
+  232  vi .gitignore 
+  233  ls
+  234  git commit -m "Initial Commit"
+  235  git push
+  236  cd ..
+  237  ls
+  238  npm start
+  239  exit
+  240  ls
+  241  cd Documents/
+  242  ls
+  243  cd React/
+  244  ls
+  245  create-react-app calculator
+  246  cd calculator/
+  247  ls
+  248  mkdir components style
+  249  ls
+  250  mv *.css style/
+  251  ls
+  252  rm -rf App.test.js 
+  253  ls
+  254  rm logo.svg 
+  255  rm reportWebVitals.js 
+  256  rm setupTests.js 
+  257  clear
+  258  ls
+  259  mv App.js components/
+  260  ls
+  261  cd ..
+  262  ls
+  263  cd ..
+  264  cd React-Calculator/
+  265  ls
+  266  vi src/components/App.js 
+  267  clear
+  268  ls
+  269  cd ..
+  270  cd calculator/
+  271  ls
+  272  npm start
+  273  ls
+  274  npm start
+  275  exit
+  276  cd ..
+  277  npmm start
+  278  npm start
+  279  ls
+  280  cd src/
+  281  ls
+  282  mv * ~/Documents/
+  283  ls
+  284  cd ..
+  285  ls
+  286  cd ..
+  287  ls
+  288  rm -rf calculator/
+  289  create-react-app calculator
+  290  exit
+  291  cd ..
+  292  ls
+  293  npm start
+  294  exit
+  295  ls
+  296  cd src/
+  297  ls
+  298  rm -rf *
+  299  ls
+  300  cd ..
+  301  ls
+  302  cd ..
+  303  mv components/ React/calculator/src/
+  304  mv style React/calculator/src/
+  305  mv index.js React/calculator/src/
+  306  cd React/
+  307  cd r
+  308  cd calculator/
+  309  ls
+  310  cd src/
+  311  ls
+  312  cd components/
+  313  ls
+  314  cd ..
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd ..
+  319  cd React-Calculator/
+  320  cd src/
+  321  vi index.js 
+  322  clear
+  323  ls
+  324  cd ..
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd calculator/
+  329  ls
+  330  exit
+  331  cd ..
+  332  npm start
+  333  ls
+  334  clear
+  335  ls
+  336  rm -rf node_modules/
+  337  ls -la
+  338  rm -rf package-lock.json 
+  339  clear
+  340  npm cache clear --force
+  341  npm install
+  342  npm start
+  343  ls
+  344  clear
+  345  ls
+  346  cd public/
+  347  ls
+  348  vi manifest.json 
+  349  vi robots.txt 
+  350  cd ..
+  351  ls
+  352  sudo gedit /etc/sysctl.conf 
+  353  sudo gedit /etc/sysctl.conf
+  354  cd ..
+  355  ls
+  356  rm -rf node_modules/
+  357  npm install
+  358  npm start
+  359  cd ..
+  360  ls
+  361  cd React-Calculator/
+  362  ls
+  363  rm -rf p
+  364  rm -rf public/
+  365  npm start
+  366  cd ..
+  367  ls
+  368  cd React-Calculator/
+  369  cd ../calculator/
+  370  ls
+  371  cp public/ ../React-Calculator/
+  372  cp -r  public/ ../React-Calculator/
+  373  cd ..
+  374  ls
+  375  cd React-Calculator/
+  376  ls
+  377  npm start
+  378  ls
+  379  cd src/
+  380  ls
+  381  cd ..
+  382  mv src/ ~/Documents/
+  383  ls
+  384  cd ..
+  385  ls
+  386  cd React-Calculator/
+  387  ls
+  388  ls -l
+  389  cd ..
+  390  rm -rf React-Calculator/
+  391  git clone https://github.com/ValerieGM/React-Calculator.git
+  392  ls
+  393  exit
+  394  ls
+  395  cd Documents/React/`
+  396  cd Documents/React/
+  397  ls
+  398  cd calculator/
+  399  ls
+  400  npm start
+  401  ls
+  402  cd src/
+  403  ls
+  404  cd components/
+  405  ls
+  406  rm -rf KeyPad.js 
+  407  ls
+  408  cd ..
+  409  ls
+  410  ls
+  411  cd Doc
+  412  cd Documents/
+  413  ls
+  414  cd React/
+  415  ls
+  416  rm calculator/
+  417  rm -rf 
+  418  ls
+  419  rm -rf React-Calculator/  
+  420  ls
+  421  rm -rf calculator/
+  422  ls
+  423  git clone https://github.com/ValerieGM/React-Calculator.git
+  424  cd React-Calculator/
+  425  ls
+  426  npm start
+  427  ls
+  428  npm install
+  429  npm start
+  430  ls
+  431  rm -rf node_modules/
+  432  ls -la
+  433  git status
+  434  git add .
+  435  git status
+  436  git rm --cache .eslintcache 
+  437  git status
+  438  git commit -m "Update Functionality"
+  439  git push 
+  440  ls
+  441  cd Documents/
+  442  ls
+  443  git clone https://github.com/ValerieGM/FreeCodeCamp.git
+  444  cd FreeCodeCamp/
+  445  ls
+  446  mkdir "Responsive Web Design"
+  447  ls
+  448  mkdir "Front End Libraries"
+  449  mkdir "Data Visualization"
+  450  ls
+  451  cd Responsive\ Web\ Design/
+  452  ls
+  453  mkdir "Tribute Page" "Survey Form" "Product Landing Page" "Technical Documentation Page" "Personal Portfolio Page"
+  454  ls
+  455  cd Tribute\ Page/
+  456  ls
+  457  touch index.html index.css
+  458  cd ..
+  459  cd Personal\ Portfolio\ Page/
+  460  touch index.html index.css
+  461  cd ..
+  462  cd Survey\ Form/
+  463  touch index.html index.css
+  464  cd ..
+  465  cd Technical\ Documentation\ Page/
+  466  touch index.html index.css
+  467  cd ..
+  468  cd Product\ Landing\ Page/
+  469  touch index.html index.css
+  470  ls
+  471  cd ..
+  472  ls
+  473  cd ..
+  474  ls
+  475  git status
+  476  git add Responsive\ Web\ Design/
+  477  git status
+  478  git commit -m "Update Responsive Web Design"
+  479  git push
+  480  exit
+  481  ls
+  482  create-react-app markdown-previewer
+  483  ls
+  484  cd Documents/
+  485  ls
+  486  rm -rf dr
+  487  rm -rf src/
+  488  ls
+  489  cd React/
+  490  ls
+  491  create-react-app drum-machine
+  492  ls
+  493  cd Documents/
+  494  ls
+  495  cd React/
+  496  cd markdown-previewer/
+  497  ls
+  498  npm start
+  499  echo fs.inotify.max_user_watches=288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  500  npm start
+  501  sudo sysctl -p
+  502  sudo tee -a /etc/sysctl.conf 
+  503  echo fs.inotify.max_user_watches=300 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  504  npm start
+  505  echo fs.inotify.max_user_watches=288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  506  exit
+  507  ls
+  508  cd src/
+  509  ls
+  510  mkdir style components
+  511  mv App.css style/
+  512  mv App.js components/
+  513  ls
+  514  rm App.test.js logo.svg reportWebVitals.js setupTests.js 
+  515  ls
+  516  mv index.css style/
+  517  ls
+  518  cd style/
+  519  ls
+  520  rm App.css 
+  521  cd ..
+  522  ls
+  523  cd ..
+  524  ls
+  525  npm start
+  526  ls
+  527  rm -rf node_modules/
+  528  npm install
+  529  npm start
+  530  exit
+  531  cd Documents/
+  532  cd React/
+  533  ls
+  534  create-react-app markdown
+  535  cd markdown
+  536  npm start
+  537  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  538  cat /proc/sys/fs/inotify/max_user_watches
+  539  sudo reboot
+  540  l
+  541  ls
+  542  npm start
+  543  npm install --save marked
+  544  rm -rf node_modules/
+  545  npm install
+  546  npm start
+  547  rm -rf node_modules/
+  548  npm install
+  549  npm start
+  550  npm uninstall node-sass
+  551  npm install --save npm install node-sass@4.14.1
+  552  npm install --save node-sass@4.14.1
+  553  ls
+  554  rm -rf node_modules/
+  555  npm install
+  556  npm start
+  557  ls
+  558  rm -rf node_modules/
+  559  ls
+  560  cat README.md 
+  561  ls
+  562  exit
+  563  ls
+  564  cd src/
+  565  cd style/
+  566  ls
+  567  mv index.css index.scss 
+  568  npm install --save node-sass
+  569  exit
+  570  ls
+  571  cd Documents/
+  572  ls
+  573  cd FreeCodeCamp/
+  574  ls
+  575  cd ..
+  576  ls
+  577  cd React/
+  578  ls
+  579  git clone https://github.com/ValerieGM/React-Markdown-Previewer.git
+  580  ls
+  581  cd markdown
+  582  ls
+  583  cd ..
+  584  rm -rf markdown
+  585  ls
+  586  cd markdown-previewer/
+  587  ls
+  588  rm -rf README.md 
+  589  ls
+  590  mv * ../React-Markdown-Previewer/
+  591  ls
+  592  cd ..
+  593  rm -rf markdown-previewer/
+  594  ls
+  595  cd React-Markdown-Previewer/
+  596  ls
+  597  lks -la
+  598  ls -la
+  599  cd ..
+  600  ls
+  601  cd pomodoro/
+  602  ls
+  603  ls la
+  604  ls -la
+  605  cp .gitignore  ../React-Markdown-Previewer/
+  606  cd ..
+  607  cd React-Markdown-Previewer/
+  608  ls
+  609  ls -la
+  610  git status
+  611  git add .
+  612  git status
+  613  git commit -m "Initial Commit"
+  614  ls
+  615  git push
+  616  cd ..
+  617  ls
+  618  cd drum-machine/
+  619  ls
+  620  exit
+  621  ls
+  622  cd src/
+  623  ls
+  624  mkdir components style
+  625  mv index.css style/
+  626  mv App.js  components/
+  627  ls
+  628  rm -rf App.css logo.svg reportWebVitals.js setupTests.js App.test.js 
+  629  ls
+  630  cd style/
+  631  ls
+  632  cd ..
+  633  ls
+  634  cd ..
+  635  ls
+  636  exit
+  637  ls
+  638  cd Documents/
+  639  ls
+  640  cd React/
+  641  ls
+  642  git clone https://github.com/ValerieGM/React-Drum-Machine.git
+  643  ls
+  644  cd React-Drum-Machine/
+  645  ls
+  646  cd ..
+  647  ls
+  648  cd drum-machine/
+  649  ls
+  650  ls -la
+  651  rm .eslintcache 
+  652  ls
+  653  ls -la
+  654  mv * ../React-Drum-Machine/
+  655  ls -la
+  656  mv .gitignore ../React-Drum-Machine/
+  657  ls -la
+  658  cd ..
+  659  ls
+  660  rm -rf drum-machine/
+  661  ls
+  662  cd React-Drum-Machine/
+  663  ls
+  664  ls -la
+  665  git status
+  666  git add .
+  667  git status
+  668  git commit -m "Initial Commit"
+  669  git push
+  670  cd ..
+  671  ls
+  672  cd ..
+  673  ls
+  674  cd FreeCodeCamp/
+  675  ls
+  676  cd Front\ End\ Libraries/
+  677  ls
+  678  cd ..
+  679  ls
+  680  cd Front\ End\ Libraries/
+  681  mkdir "Random Quote Machine"
+  682  cd Random\ Quote\ Machine/
+  683  mkdir css js
+  684  touch index.html
+  685  cd css/
+  686  touch index.css
+  687  cd ..
+  688  cd js/
+  689  touch index.js
+  690  cd ..
+  691  ls
+  692  exit
+  693  ls
+  694  npm start
+  695  ls
+  696  rm -rf node_modules/
+  697  ls
+  698  cd css/
+  699  mv index.css index.scss 
+  700  exit
+  701  cd Documents/
+  702  ls
+  703  cd FreeCodeCamp/
+  704  ls
+  705  cd Front\ End\ Libraries/
+  706  ls
+  707  cd Random\ Quote\ Machine/
+  708  ls
+  709  ls -la
+  710  cd css/
+  711  ls -la
+  712  cd ..
+  713  git status
+  714  cd ..
+  715  ls
+  716  git status
+  717  git add .
+  718  git status
+  719  git commit -m "Update Front End Libraries"
+  720  git push
+  721  ls
+  722  cd Front\ End\ Libraries/
+  723  ls
+  724  git submodule add https://github.com/ValerieGM/React-Calculator.git
+  725  ls
+  726  cd ..
+  727  ls -la
+  728  cd Front\ End\ Libraries/
+  729  ls
+  730  git submodule add https://github.com/ValerieGM/React-Markdown-Previewer.git
+  731  ls
+  732  git submodule add https://github.com/ValerieGM/React-Drum-Machine.git
+  733  ls
+  734  cd ..
+  735  ls
+  736  git status
+  737  git commit
+  738  git commit -m "Organizing"
+  739  git push
+  740  clear
+  741  ls
+  742  cd ..
+  743  ls
+  744  cd React/
+  745  ls
+  746  rm -rf React-*
+  747  ls
+  748  cd ..
+  749  ls
+  750  cd D3/
+  751  ls
+  752  mkdir "Bar Chart"
+  753  cd Bar\ Chart/
+  754  mkdir css js
+  755  touch index.html
+  756  cd css/
+  757  touch index.css
+  758  cd ../js/
+  759  touch index.js
+  760  ls
+  761  cd ..
+  762  ls
+  763  exit
+  764  cd Documents/
+  765  cd D3/
+  766  ls
+  767  mv Bar\ Chart/ ../FreeCodeCamp/Data\ Visualization/
+  768  ls
+  769  cd ..
+  770  cd FreeCodeCamp/
+  771  ls
+  772  cd Data\ Visualization/
+  773  ls
+  774  cd ..
+  775  git status 
+  776  git add .
+  777  git status 
+  778  git commit -m "Update Data Visualization"
+  779  git push
+  780  ls
+  781  cd ..
+  782  ls
+  783  cd D3/
+  784  ls
+  785  pwd
+  786  cd ..
+  787  ls
+  788  git clone https://github.com/ValerieGM/Tutorials.git
+  789  ls
+  790  cd Tutorials/
+  791  ls
+  792  mkdir Python
+  793  cd Python/
+  794  ls
+  795  git submodule https://github.com/ValerieGM/Learn-Python-The-Hard-Way.git
+  796  git submodule add https://github.com/ValerieGM/Learn-Python-The-Hard-Way.git
+  797  ls
+  798  cd ..
+  799  ls
+  800  git status
+  801  git commit -m "LPTHW"
+  802  git push
+  803  ls
+  804  cd ..
+  805  ls
+  806  exit
+  807  cd Documents/
+  808  ls
+  809  cd Umuzi/
+  810  ls
+  811  rm -rf git-basic-exercises/
+  812  git clone https://github.com/ValerieGM/git-basic-exercises.git
+  813  cd git-basic-exercises/
+  814  touch README.md
+  815  git status
+  816  git add .
+  817  git status
+  818  git commit -m "initial commit"
+  819  git log
+  820  vi README.md 
+  821  git add .
+  822  git status
+  823  git commit -m "second commit"
+  824  git log
+  825  vi README.md 
+  826  git status
+  827  git add .
+  828  git status
+  829  git commit -m "third commit"
+  830  git log
+  831  git branch -a
+  832  git checkout -b milkshake-flavours
+  833  ls
+  834  vi milkshakes.md
+  835  git add .
+  836  git status
+  837  git commit -m "added initial flavours"
+  838  git log
+  839  git checkout master
+  840  git branch -a
+  841  git checkout -b history
+  842  ls
+  843  history > history.txt
